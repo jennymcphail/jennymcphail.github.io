@@ -16,6 +16,7 @@ About three quarters of hosts only have one listing but there are a chunk with 2
 
 # Most and Least Popular Areas to List
 ## Top 10
+
 | Neighbourhood                            | Listings  | 
 |------------------------------------------|-----------|
 |Old Town, Princes Street and Leith Street | 765       |
@@ -32,6 +33,7 @@ About three quarters of hosts only have one listing but there are a chunk with 2
 The top ten neighbourhoods are central and near tourist attractions.
 
 ## Bottom 10
+
 | Neighbourhood                            | Listings  | 
 |------------------------------------------|-----------|
 |Clovenstone and Wester Hailes             | 8         |
