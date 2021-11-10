@@ -3,7 +3,7 @@
 ## What can we learn from AirBnB data on the popular tourist destination of Edinburgh?
 
 I have decided to look at Edinburgh AirBnB data as that is the city I was born in - I think it's a great place to visit, but do others agree?
-You can see my code here: https://github.com/jennymcphail/project-1-blog-post
+You can see my code here: ![project-1-blog-post](https://github.com/jennymcphail/project-1-blog-post)
 
 I thought it would be useful to build a price prediction model so that new hosts could have a tool to help them decide how much to list their properties for. You can see the findings from my Exploratory Data Analysis and Model Build in this post.
 
